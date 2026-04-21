@@ -9,7 +9,7 @@
 This project demonstrates a comprehensive data analysis workflow in Excel, including data cleaning and the creation of an interactive dashboard. The primary goal was to analyze customer demographics and behaviors (such as income, age, and commute distance) to identify key trends in bike purchases.  
 
 ## Dataset Description
-The [dataset]() includes several demographic and behavioral attributes of potential bike buyers:  
+The [dataset](https://github.com/gauravkamble-insights/Bike-Sales-Dashboard-Project-on-Excel/blob/main/src/data/Bike%20Buyers%20Dataset.xlsx) includes several demographic and behavioral attributes of potential bike buyers:  
 - **ID:** A unique identifier for each individual.  
 - **Marital Status & Gender:** Standardized categories used for demographic analysis.  
 - **Income:** The annual salary of the individuals.  
@@ -28,11 +28,12 @@ To prepare the data for analysis, the following steps were taken:
 - **Commute Distance Refinement:** Modified labels for commute distances, such as changing "10+ miles" to "More than 10 miles," to ensure they sorted correctly in visualizations.  
 
 ## Dashboard Features
-The final dashboard was built using Pivot Tables and interactive visualizations:  
+The [final dashboard](https://github.com/gauravkamble-insights/Bike-Sales-Dashboard-Project-on-Excel/blob/main/final_project/Complete%20Excel%20Project%20-%20Sales%20Dashboard.xlsx) was built using Pivot Tables and interactive visualizations:  
 **1. Visualizations**  
 - Average Income per Purchase: A bar chart comparing the income levels of those who did and did not purchase a bike, broken down by gender.  
 - Customer Age Brackets: A line chart showing that middle-aged individuals (31 to 54) are the most frequent bike buyers.  
-- Customer Commute: A visualization showing how commute distance impacts the likelihood of purchasing a bike, indicating higher sales for shorter commutes.  
+- Customer Commute: A visualization showing how commute distance impacts the likelihood of purchasing a bike, indicating higher sales for shorter commutes.
+  
 **2. Interactivity (Slicers)**
 The dashboard includes three interactive Slicers that allow users to filter the entire view simultaneously:  
 - Marital Status  
@@ -41,7 +42,7 @@ The dashboard includes three interactive Slicers that allow users to filter the 
 
 
 ## Dashboard Preview
-<img width="1123" height="651" alt="Dashboard" src="https://github.com/user-attachments/assets/d3bb0735-ae58-4dda-b8ff-957cda94aeee" />
+<img width="1123" height="651" alt="Dashboard" src="https://github.com/gauravkamble-insights/Bike-Sales-Dashboard-Project-on-Excel/blob/main/assets/Dashboard.png" />
 
 ## Key Insights
 - **Income:** On average, individuals with higher incomes (roughly $55,000 to $60,000) were more likely to purchase a bike compared to those with lower average incomes.
